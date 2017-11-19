@@ -1,0 +1,132 @@
+{
+  "products": {
+    "widget": {
+      "name": "widget",
+      "MSRPPrice": "69.95",
+      "SalePrice": "44.99",
+      "qtyInStock": "2",
+      "description": "a widget",
+      "height": "7",
+      "width": "12",
+      "depth": "3",
+      "weight": {},
+      "variations": [
+        "green",
+        "Lemon chiffon",
+        "creme",
+        "opal"
+      ]
+    },
+    "gizmo": {
+      "name": "gizmo",
+      "MSRPPrice": "39.95",
+      "SalePrice": "24.99",
+      "qtyInStock": "35",
+      "description": "a gizmo",
+      "height": "2",
+      "width": "3",
+      "depth": "7",
+      "weight": {},
+      "variations": [
+        "blue",
+        "black",
+        "creme",
+        "chartruse"
+      ]
+    },
+    "thingamabob": {
+      "name": "thingamabob",
+      "MSRPPrice": "34.95",
+      "SalePrice": "null",
+      "qtyInStock": "99",
+      "description": "a thingamabob",
+      "height": "16",
+      "width": "5",
+      "depth": "12",
+      "weight": {},
+      "variations": [
+        "Charcoal",
+        "black",
+        "dark",
+        "Shadow"
+      ]
+    },
+    "dinglehopper": {
+      "name": "dinglehopper",
+      "MSRPPrice": "13.95",
+      "SalePrice": "4.99",
+      "qtyInStock": "9",
+      "description": "a dinglehopper",
+      "height": "8",
+      "width": "12",
+      "depth": "33",
+      "weight": {},
+      "variations": [
+        "blue",
+        "black",
+        "creme",
+        "chartruse"
+      ]
+    },
+    "whachamacallit": {
+      "name": "widget",
+      "MSRPPrice": "39.95",
+      "SalePrice": "24.99",
+      "qtyInStock": "76",
+      "description": "a widget",
+      "height": "2",
+      "width": "3",
+      "depth": "7",
+      "weight": {},
+      "variations": [
+        "Forrest Green",
+        "black",
+        "Orange"
+      ]
+    },
+    "whoozit": {
+      "name": "widget",
+      "MSRPPrice": "39.95",
+      "SalePrice": "24.99",
+      "qtyInStock": "8",
+      "description": "a widget",
+      "height": "2",
+      "width": "3",
+      "depth": "7",
+      "weight": {},
+      "variations": [
+        "Yellow",
+        "Banana",
+        ""
+      ]
+    },
+    "whatzit": {
+      "name": "widget",
+      "MSRPPrice": "12.95",
+      "SalePrice": "null",
+      "qtyInStock": "0",
+      "description": "a widget",
+      "height": "2",
+      "width": "3",
+      "depth": "7",
+      "weight": {},
+      "variations": [
+        "blue"
+      ]
+    },
+    "gadget": {
+      "name": "widget",
+      "MSRPPrice": "13.95",
+      "SalePrice": "2.99",
+      "qtyInStock": "9",
+      "description": "a widget",
+      "height": "5",
+      "width": "5",
+      "depth": "5",
+      "weight": {},
+      "variations": [
+        "Neon"
+      ]
+    }
+  }
+}

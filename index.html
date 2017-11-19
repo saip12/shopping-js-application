@@ -1,0 +1,54 @@
+<html>
+<head>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="content">
+
+  <h1><img src="images/logo.png" width="70px" height="50px"/> Acme Widgets Inc</h1>
+  <p>You can select from our wide range of products. When you are ready to checkout, click the &ldquo;Checkout Now&rdquo; button.</p>
+  
+  <p class="removeAlert">
+    Item has been removed. 
+  </p>
+  
+  <table class="items" id="productsID">
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Total</th>
+      </tr>
+    </thead>
+    
+  </table>
+  
+  <div class="cost">
+    <h2>Order Overview</h2>
+    
+    <table class="pricing">
+      <tbody>
+        <tr>
+          <td>Subtotal</td>
+          <td class="subtotal"></td>
+        </tr>
+        <tr>
+          <td>Tax (8.5%)</td>
+          <td class="tax"></td>
+        </tr>
+  
+        <tr>
+          <td><strong>Total:</strong></td>
+          <td class="orderTotal"></td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <a class="cta" href="#">Checkout Now &raquo;</a>
+  </div>
+</div> <!-- End Content -->
+</body>
+
+<script type="text/javascript" src="shop.js"></script>
+</html>
